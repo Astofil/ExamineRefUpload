@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "TdtWXPG6phEVk7TiNfMcPsLUr0Op/UZKZ5MYjcWhVSw=",
+  "Source": "WebApi",
+  "BasePath": "_content/WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApi\\wwwroot",
+      "Source": "WebApi",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\Soft Club\\C#\\FourteenthLesson\\Examreference\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Hp\\Desktop\\Soft Club\\C#\\FourteenthLesson\\Examreference\\WebApi\\wwwroot\\employeefile\\sql right join example.jpg",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Hp\\Desktop\\Soft Club\\C#\\FourteenthLesson\\Examreference\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "employeefile/sql right join example.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\employeefile\\sql right join example.jpg"
+    }
+  ]
+}
